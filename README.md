@@ -53,5 +53,7 @@ Here is the link to the screenshots of the page's UI: https://drive.google.com/d
 
 ## Contact
 Sindu Sayani 
+
 GitHub: https://github.com/sayani-sindu
+
 LinkedIn: https://linkedin.com/in/sindu-sayani
